@@ -1,5 +1,5 @@
 {
-  "name": "angular-app",
+  "name": "sequelize-restify",
   "version": "0.0.0",
   "description": "",
   "main": "server.js",
@@ -11,6 +11,7 @@
   "dependencies": {
     "restify": "~2.8.2",
     "sequelize": "~1.7.10",
-    "pg": "~3.4.2"
+    "pg": "~3.4.2",
+    "sequelize-cli": "~0.3.3"
   }
 }
